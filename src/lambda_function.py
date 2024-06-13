@@ -70,7 +70,7 @@ def source2bronze():
         return job_status
 
     except Exception as e:
-        log.error(f'Error 2: {e}')
+        log.error(f'Error 233: {e}')
     
 
 
